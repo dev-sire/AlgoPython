@@ -2,7 +2,6 @@ import string
 import random
 from cryptography.fernet import Fernet
 
-
 def generate_password():
     """Generates a random password"""
     alphabets = list(string.ascii_letters)

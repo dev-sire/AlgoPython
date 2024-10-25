@@ -5,12 +5,12 @@ No need to remember your each and every password anymore, all you need is just r
 your account, and you can access all of your passwords in a single place. You can also generate strong passwords for
 your accounts and keep your accounts safe.
 
-# Made Using
-Tkinter
-smtplib
-socket
-os
-cryptography
+## Made Using
+- Tkinter
+- smtplib
+- socket
+- os
+- cryptography
 
 ## Attribution:
 The images and the custom ttk theme used in this application is not owned by me.

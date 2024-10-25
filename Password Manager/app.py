@@ -12,7 +12,6 @@ from functions import *
 DATA_FOLDER = os.path.join(os.getcwd(), "Data")
 USERS_FOLDER = os.path.join(DATA_FOLDER, "Users")
 
-
 class PasswordManager(Tk):
     """Root of the application"""
 
