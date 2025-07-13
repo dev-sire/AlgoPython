@@ -1,5 +1,6 @@
 import bisect
 import functools
+import math
 
 class Solution:
   def maxValue(self, events: list[list[int]], k: int) -> int:
